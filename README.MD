@@ -1,4 +1,4 @@
-[![DepShield Badge](https://depshield.sonatype.org/badges/{burnettetc}/{webgoat}/depshield.svg)](https://depshield.github.io)
+[![DepShield Badge](https://depshield.sonatype.org/badges/burnettetc/webgoat/depshield.svg)](https://depshield.github.io)
 
 # WebGoat 8: A deliberately insecure Web Application
 
